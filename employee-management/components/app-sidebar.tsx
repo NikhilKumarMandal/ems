@@ -14,9 +14,6 @@ const sidebarItems = [
   { name: "Attendance", href: "/dashboard/attendance", icon: Calendar },
   { name: "Leave Management", href: "/dashboard/leave-management", icon: ClipboardList },
   { name: "Projects", href: "/dashboard/projects", icon: Briefcase },
-   { name: "About Us", href: "/dashboard/about", icon: Briefcase },
-    { name: "Contect Us", href: "/dashboard/contact", icon: Briefcase },
-
   { name: "Settings", href: "/dashboard/settings", icon: Settings },
 ]
 
