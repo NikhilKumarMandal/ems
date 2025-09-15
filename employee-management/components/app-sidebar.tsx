@@ -54,7 +54,7 @@ export function AppSidebar() {
       >
         <div className="flex flex-col h-full">
           <div className="flex items-center justify-between h-16 px-4 border-b border-gray-200 dark:border-gray-700">
-            <h1 className="text-xl font-bold text-sky-600 dark:text-sky-400">EMS Pro</h1>
+            <h1 className="text-xl font-bold text-sky-600 dark:text-sky-400">EMS Forge</h1>
             <Button variant="ghost" size="icon" className="md:hidden" onClick={() => setSidebarOpen(false)}>
               <X className="h-5 w-5" />
             </Button>
